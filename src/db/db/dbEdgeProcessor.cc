@@ -829,7 +829,7 @@ MergeOp::reset ()
   m_wcv_n.clear ();
   m_wcv_s.clear ();
   m_wc_n = 0;
-  m_wc_n = 0;
+  m_wc_s = 0;
   m_zeroes = 0;
 }
 
